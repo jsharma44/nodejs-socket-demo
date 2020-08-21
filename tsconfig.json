@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "target": "esnext",
+      "allowJs": true,
+      "noEmit": true,
+      "esModuleInterop": true,
+      "isolatedModules": true,
+      "strict": true,
+      "noImplicitAny": false,
+      "strictFunctionTypes": true,
+      "strictBindCallApply": true,
+      "noImplicitThis": false,
+      "alwaysStrict": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": false,
+      "noImplicitReturns": true,
+      "noFallthroughCasesInSwitch": true,
+      "moduleResolution": "node",
+      "resolveJsonModule": true
+    },
+      "include": ["src"]
+  
+  }
