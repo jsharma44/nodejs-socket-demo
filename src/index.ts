@@ -38,10 +38,7 @@ app.get('/', async (req: Request, res: Response) => {
 });
 
 app.listen(8000, () => {
-    console.log(
-        'App is running at https://jplofttechnologies.in:%d in %s mode',
-        8000
-    );
+    console.log('App is running at http://localhost:%d in %s mode', 8000);
 });
 
 //define host and port to run the server
